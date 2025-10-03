@@ -1,0 +1,37 @@
+{
+  "name": "healthcare-ai-infrastructure",
+  "version": "1.0.0",
+  "description": "AWS CDK infrastructure for Healthcare AI Agent",
+  "main": "app.py",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "test": "pytest",
+    "deploy": "cdk deploy --all",
+    "destroy": "cdk destroy --all",
+    "diff": "cdk diff",
+    "synth": "cdk synth"
+  },
+  "devDependencies": {
+    "aws-cdk": "^2.100.0",
+    "aws-cdk-lib": "^2.100.0",
+    "constructs": "^10.3.0"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.100.0",
+    "constructs": "^10.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/healthcare-ai-agent.git"
+  },
+  "keywords": [
+    "aws",
+    "cdk",
+    "healthcare",
+    "ai",
+    "bedrock",
+    "sagemaker"
+  ],
+  "author": "Healthcare AI Team",
+  "license": "MIT"
+}

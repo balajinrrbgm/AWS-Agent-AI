@@ -1,0 +1,23 @@
+AWS AmazonBedrock AWSLambda APIGateway S3 CloudFormation IAM
+
+AI Claude3.5Sonnet AnthropicClaude MachineLearning NaturalLanguageProcessing ConversationalAI
+
+Frontend React TypeScript MaterialUI JavaScript HTML5 CSS3 ResponsiveDesign
+
+Backend Python Python3.11 ServerlessArchitecture RESTfulAPI JSON
+
+Healthcare HealthTech MedicalAI HealthcareInnovation DigitalHealth Telemedicine
+
+Cloud CloudNative ServerlessComputing InfrastructureAsCode AWSCloudFormation AWSCDK
+
+Development FullStackDevelopment PowerShell Git GitHub 
+
+Security IAMRoles CORS SecureAPI AWSSecurityBestPractices
+
+DataScience RiskAssessment SymptomAnalysis HealthAnalytics PredictiveModeling
+
+UserExperience ChatInterface RealTimeMessaging AccessibleDesign ProgressiveWebApp
+
+WebTechnologies SinglePageApplication ModernWebDev ComponentBasedArchitecture StateManagement
+
+Automation AutomatedDeployment ScriptAutomation BuildAutomation
